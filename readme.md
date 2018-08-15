@@ -200,3 +200,4 @@
 8. 将image.rar文件解压到D:/image，这个文件是存放图片和敏感词的重要文件。
 5. 运行com.wsk.movie.MovieApplication的main方法。
 6. 访问localhost。
+7.修改测试
